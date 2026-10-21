@@ -7,10 +7,10 @@ After completing your final submission, add your team's project information to t
 
 ## Projects
 
-### 1. NameOfMember1 and NameOfMember2
+### 1. Richard Sanasi Joshua and Solomon Oluwarotimi Oki
 | Team Name | Project Title | Brief Description | Project Repository |
 |-----------|---------------|-------------------|--------------------|
-|           |               |                   |                    |
+|CAC (Collapse & Compute)  | Sample, Then Diagonalize  | Explored Sample-Based Quantum Diagonalization (SQD) using a simplified spin model, implementing classical subspace diagonalization on quantum-sampled bitstrings.   | https://github.com/richardjoshua1942/UIQC-Qiskit-Fall-Fest-2026  |
 
 
 ### 2. NameOfMember1 and NameOfMember2
